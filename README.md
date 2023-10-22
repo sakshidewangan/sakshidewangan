@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Dont
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: nothing
-- author - sakshidewangan
+- author - sakshi dewangan
+This is my first git repository
+hello world 
